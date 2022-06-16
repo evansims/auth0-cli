@@ -7,7 +7,7 @@ body:
     id: not-general-support
     attributes:
       label: This form is not for general support and usage questions.
-      description: Please confirm you have sought out solutions to common questions in these places first:
+      description: Please confirm you have sought out solutions to common questions in these places first
       options:
         - label: I have looked into the [README](https://github.com/auth0/SimpleKeychain#readme) and have not found a suitable solution or answer.
           required: true
